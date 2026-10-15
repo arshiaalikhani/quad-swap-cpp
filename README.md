@@ -1,4 +1,4 @@
-[U# QuadSwap C++
+# QuadSwap C++
 
 ![C++11](https://img.shields.io/badge/C%2B%2B-11%2B-blue)
 ![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
